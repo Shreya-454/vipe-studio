@@ -2,15 +2,15 @@
 
 @font-face {
     font-family: "Konexy Personal Use";
-    src: url("/dist/assets/fonts/KonexyPersonalUse.otf");
+    src: url("../fonts/KonexyPersonalUse.otf");
 }
 
 @font-face {
     font-family: "Gilroy-ExtraBold";
-    src: url("/dist/assets/fonts/Radomir\ Tinkov\ -\ Gilroy-ExtraBold.otf");
+    src: url("../fonts/Radomir\ Tinkov\ -\ Gilroy-ExtraBold.otf");
 }
 
 @font-face {
     font-family: "Gilroy-Light";
-    src: url("/dist/assets/fonts/Radomir\ Tinkov\ -\ Gilroy-Light.otf");
+    src: url("../fonts/Radomir\ Tinkov\ -\ Gilroy-Light.otf");
 }
