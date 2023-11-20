@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Jost:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@font-face {
+    font-family: "Konexy Personal Use";
+    src: url("/dist/assets/fonts/KonexyPersonalUse.otf");
+}
+
+@font-face {
+    font-family: "Gilroy-ExtraBold";
+    src: url("/dist/assets/fonts/Radomir\ Tinkov\ -\ Gilroy-ExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Gilroy-Light";
+    src: url("/dist/assets/fonts/Radomir\ Tinkov\ -\ Gilroy-Light.otf");
+}
